@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SocialHackYT
+- 👋 Hi, I’m @Hebrews13two
 - 👀 I’m interested in decentralisation
 - 🌱 I’m currently learning team development
-- 💞️ I’m looking to collaborate on metaverse coding
+- 💞️ I’m looking to collaborate on decentralization
 - 📫 How to reach me aaajohn123@yahoo.com
 
 <!---

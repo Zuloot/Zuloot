@@ -1,4 +1,4 @@
-- 👋 Hi, I’m the founder of Zuloot
+- 👋 I’m the founder and developer of Zuloot
 - 👀 I’m interested in decentralisation
 - 🌱 I’m currently learning team development
 - 💞️ I’m looking to collaborate on decentralization systems

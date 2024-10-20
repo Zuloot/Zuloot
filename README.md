@@ -1,10 +1,10 @@
-- 👋 I’m the founder and developer of Zuloot
-- 👀 I’m interested in decentralisation
+- 👋 I’m the founder and developer of the Zuloot hunt
+- 👀 I’m interested in AR, UE dev, Game dev...
 - 🌱 I’m currently learning team development
-- 💞️ I’m looking to collaborate on decentralization systems
-- 📫 How to reach me aaajohn123@yahoo.com
+- 💞️ I’m looking to collaborate on UE development and treasure hunting
+- 📫 How to reach me zulootjon@gmail.com
 
 <!---
-SocialHackYT/SocialHackYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zuloot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
